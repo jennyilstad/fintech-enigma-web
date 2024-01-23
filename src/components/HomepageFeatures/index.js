@@ -13,7 +13,7 @@ const FeatureList1 = [
 
 const FeatureList2 = [
   {
-    title: 'FOR STUDENTER',
+    title: 'FOR STUDENTER y',
     url: "docs/Bli_med_i_Fintech"
     //Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default
   },
